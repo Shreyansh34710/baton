@@ -1,0 +1,1 @@
+"""BATON backend application package."""
